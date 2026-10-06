@@ -60,7 +60,8 @@ Exception handling
 
 Collections and basic programming concepts
 
-📄 Certificate: View Certificate
+📄 Certificate: [View Java Foundation Certificate](<Java Foundation Certificate.pdf>)
+                 [View Programming using Java Certificate](<Programming using Java Certificate.pdf>)
 
 🎯 What I'm Learning Next
 
